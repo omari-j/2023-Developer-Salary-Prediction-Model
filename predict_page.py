@@ -51,7 +51,7 @@ def show_predict_page():
                                        "Italy",
                                        "Netherlands",
                                        "Poland",
-                                       "Portugal"
+                                       "Portugal",
                                        "Spain",
                                        "Sweden",
                                        "Switzerland",
